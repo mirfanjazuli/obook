@@ -1,0 +1,52 @@
+body {
+    background-image: url('/img/background.png');
+    background-size: cover;
+    font-family: M Plus 1;
+}
+
+.title {
+    font-weight: 500px;
+    font-size: 60px;
+    margin-top: 100px;
+}
+
+.book-image {
+    position: absolute;
+    width: 708px;
+    height: 739px;
+    left: 700px;
+    top: 200px;
+}
+
+h3 {
+    position: absolute;
+width: 220px;
+height: 35px;
+left: 610px;
+top: 840px;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+  
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+  
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-registration input {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+
+
+    
